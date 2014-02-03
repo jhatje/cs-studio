@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: PACE
 Bundle-SymbolicName: org.csstudio.display.pace;singleton:=true
-Bundle-Version: 3.2.1.qualifier
+Bundle-Version: 3.2.1.201402031200
 Bundle-Localization: plugin
 Bundle-Description: Tabular editor for PVs used in several devices, with confirmation and logging
 Require-Bundle: org.junit;bundle-version="4.8.2",

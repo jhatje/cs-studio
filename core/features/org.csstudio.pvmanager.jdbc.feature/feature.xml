@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.pvmanager.jdbc.feature"
       label="CS-Studio Database Services Support"
-      version="3.2.0.qualifier"
+      version="3.2.0.201402031200"
       provider-name="CS-Studio Collaboration &lt;cs-studio-core@lists.sourceforge.net&gt;">
 
    <description url="http://pvmanager.sourceforge.net/">
@@ -18,7 +18,7 @@
    </license>
 
    <requires>
-      <import feature="org.csstudio.pvmanager.feature" version="3.2.0.qualifier"/>
+      <import feature="org.csstudio.pvmanager.feature" version="3.2.0.201402031200"/>
       <import plugin="org.eclipse.core.runtime"/>
       <import plugin="org.csstudio.utility.pvmanager" version="3.2.0" match="greaterOrEqual"/>
       <import plugin="org.epics.vtype" version="2.1.0" match="greaterOrEqual"/>

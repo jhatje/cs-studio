@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.frib.basic.applications.feature"
       label="CSS-FRIB Basic Applications"
-      version="3.2.1.qualifier"
+      version="3.2.1.201402031200"
       provider-name="Eric Berryman">
 
    <description url="http://www.example.com/description">

@@ -47,9 +47,9 @@
    </plugins>
 
    <features>
-      <feature id="org.csstudio.core.feature" version="3.1.0.qualifier"/>
-      <feature id="org.csstudio.core.util.feature" version="3.1.0.qualifier"/>
-      <feature id="org.csstudio.core.product.feature" version="3.1.0.qualifier"/>
+      <feature id="org.csstudio.core.feature" version="3.1.0.201402031200"/>
+      <feature id="org.csstudio.core.util.feature" version="3.1.0.201402031200"/>
+      <feature id="org.csstudio.core.product.feature" version="3.1.0.201402031200"/>
       <feature id="org.eclipse.rcp"/>
    </features>
 

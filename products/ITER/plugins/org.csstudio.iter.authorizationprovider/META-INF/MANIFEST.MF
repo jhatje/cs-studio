@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Authorization Provider
 Bundle-Description: ITER Authorization Provider
 Bundle-SymbolicName: org.csstudio.iter.authorizationprovider;singleton:=true
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.0.0.201402031200
 Bundle-Vendor: Davy Dequidt <davy.dequidt@iter.org> - ITER
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Require-Bundle: org.csstudio.security;bundle-version="1.0.0",

@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Math Service
 Bundle-SymbolicName: org.csstudio.service.math;singleton:=true
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.0.0.201402031200
 Bundle-Activator: org.csstudio.service.math.Activator
 Require-Bundle: org.eclipse.core.runtime,
  org.csstudio.utility.pvmanager,

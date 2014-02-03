@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.panda.applications.feature"
       label="CSS-PANDA Applications"
-      version="3.2.4.qualifier"
+      version="3.2.4.201402031200"
       provider-name="Florian Feldbauer &lt;florian@ep1.ruhr-uni-bochum.de&gt; - RUB">
 
    <description url="http://www.example.com/description">

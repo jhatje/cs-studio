@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.common.utilities.features"
       label="CS-Studio utilties"
-      version="3.2.0.qualifier"
+      version="3.2.0.201402031200"
       provider-name="CSS Collaboration &lt;cs-studio-core@lists.sourceforge.net&gt;">
 
    <description url="http://www.example.com/description">
@@ -18,7 +18,7 @@
    </license>
 
    <requires>
-      <import feature="org.csstudio.common.core.feature" version="3.2.0.qualifier"/>
+      <import feature="org.csstudio.common.core.feature" version="3.2.0.201402031200"/>
       <import plugin="org.eclipse.ui"/>
       <import plugin="org.eclipse.core.runtime"/>
       <import plugin="org.csstudio.utility.pvmanager.ui"/>

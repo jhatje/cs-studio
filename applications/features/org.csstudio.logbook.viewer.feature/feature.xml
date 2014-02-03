@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.logbook.viewer.feature"
       label="Log Viewer Feature"
-      version="1.0.0.qualifier">
+      version="1.0.0.201402031200">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]

@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.common.pva.feature"
       label="PVAccess (Epics 4) support"
-      version="3.2.0.qualifier"
+      version="3.2.0.201402031200"
       provider-name="CSS Collaboration &lt;cs-studio-core@lists.sourceforge.net&gt;">
 
    <description url="http://www.example.com/description">
@@ -18,7 +18,7 @@
    </license>
 
    <requires>
-      <import feature="org.csstudio.common.core.feature" version="3.2.0.qualifier"/>
+      <import feature="org.csstudio.common.core.feature" version="3.2.0.201402031200"/>
       <import plugin="org.eclipse.core.runtime"/>
       <import plugin="org.csstudio.utility.pvmanager" version="2.0.0" match="greaterOrEqual"/>
       <import plugin="org.csstudio.utility.pvmanager.vtype" version="2.0.0" match="greaterOrEqual"/>

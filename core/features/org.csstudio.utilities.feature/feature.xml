@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.utilities.feature"
       label="CS-Studio Utilities"
-      version="3.2.0.qualifier"
+      version="3.2.0.201402031200"
       provider-name="CS-Studio Collaboration &lt;cs-studio-core@lists.sourceforge.net&gt;">
 
    <description url="http://controlsystemstudio.github.io/">
@@ -42,7 +42,7 @@
       <import plugin="org.csstudio.opibuilder.widgets" version="3.1.0" match="greaterOrEqual"/>
       <import plugin="org.epics.graphene" version="0.1.0" match="greaterOrEqual"/>
       <import plugin="org.epics.util"/>
-      <import feature="org.csstudio.core.feature" version="3.2.0.qualifier"/>
+      <import feature="org.csstudio.core.feature" version="3.2.0.201402031200"/>
    </requires>
 
    <plugin

@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Test Utility library for simplepv
 Bundle-SymbolicName: org.csstudio.simplepv.test
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.0.0.201402031200
 Bundle-Vendor: Xihui Chen<chenx1@ornl.gov>
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Require-Bundle: org.csstudio.simplepv;bundle-version="1.0.0",

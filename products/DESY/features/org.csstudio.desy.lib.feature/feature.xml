@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.desy.lib.feature"
       label="Desy external lib feature"
-      version="1.0.0.qualifier"
+      version="1.0.0.201402031200"
       provider-name="Desy, Jan Hatje &lt;css-developer@desy.de">
 
    <description url="http://www.example.com/description">

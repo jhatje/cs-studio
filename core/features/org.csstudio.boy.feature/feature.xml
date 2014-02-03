@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.boy.feature"
       label="CS-Studio Operator Interface (BOY)"
-      version="3.2.0.qualifier"
+      version="3.2.0.201402031200"
       provider-name="CS-Studio Collaboration &lt;cs-studio-core@lists.sourceforge.net&gt;">
 
    <description url="http://controlsystemstudio.github.io/">
@@ -22,8 +22,8 @@
          version="0.0.0"/>
 
    <requires>
-      <import feature="org.csstudio.core.feature" version="3.2.0.qualifier"/>
-      <import feature="org.csstudio.utilities.feature" version="3.2.0.qualifier"/>
+      <import feature="org.csstudio.core.feature" version="3.2.0.201402031200"/>
+      <import feature="org.csstudio.utilities.feature" version="3.2.0.201402031200"/>
       <import plugin="org.epics.vtype" version="2.1.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.runtime"/>
       <import plugin="org.csstudio.simplepv" version="1.0.0" match="greaterOrEqual"/>

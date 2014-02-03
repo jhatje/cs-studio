@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.pvmanager.ca.feature"
       label="CS-Studio Epics v3 Support (Channel Access)"
-      version="3.2.0.qualifier"
+      version="3.2.0.201402031200"
       provider-name="CS-Studio Collaboration &lt;cs-studio-core@lists.sourceforge.net&gt;">
 
    <description url="http://pvmanager.sourceforge.net/">
@@ -34,7 +34,7 @@
       <import plugin="org.csstudio.apputil.ui"/>
       <import plugin="org.csstudio.autocomplete.ui"/>
       <import plugin="org.csstudio.csdata" version="3.2.0" match="greaterOrEqual"/>
-      <import feature="org.csstudio.core.feature" version="3.2.0.qualifier"/>
+      <import feature="org.csstudio.core.feature" version="3.2.0.201402031200"/>
    </requires>
 
    <plugin

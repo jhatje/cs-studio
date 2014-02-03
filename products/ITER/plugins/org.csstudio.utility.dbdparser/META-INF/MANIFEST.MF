@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Epics DBD files parser
 Bundle-SymbolicName: org.csstudio.utility.dbdparser;singleton:=true
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.0.0.201402031200
 Bundle-Activator: org.csstudio.utility.dbdparser.Activator
 Bundle-ActivationPolicy: lazy
 Require-Bundle: org.junit4,

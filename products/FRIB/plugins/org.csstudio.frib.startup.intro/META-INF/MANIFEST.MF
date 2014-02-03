@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: CSS-FRIB Intro
 Bundle-SymbolicName: org.csstudio.frib.startup.intro;singleton:=true
-Bundle-Version: 3.2.1.qualifier
+Bundle-Version: 3.2.1.201402031200
 Bundle-Activator: org.csstudio.frib.startup.intro.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,

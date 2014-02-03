@@ -2,7 +2,7 @@
 <feature
       id="org.csstudio.eclipse.feature"
       label="CS-Studio Eclipse Dependencies"
-      version="3.2.0.qualifier"
+      version="3.2.0.201402031200"
       provider-name="CS-Studio Collaboration &lt;cs-studio-core@lists.sourceforge.net&gt;">
 
    <description url="http://controlsystemstudio.github.io/">
