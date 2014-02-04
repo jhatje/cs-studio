@@ -1,5 +1,6 @@
 *CVS/
 .git/*
+*target/
 
 *~
 *.swp
